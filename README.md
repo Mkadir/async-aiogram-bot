@@ -27,6 +27,7 @@ venv activation :
   deactivation venv :
   
     deactivate
+--------------------------------------------------------------------
 
 #UZB
 Python Aiogram kutubhonasi telegram bot uchun 
