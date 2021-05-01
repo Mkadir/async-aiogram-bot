@@ -6,20 +6,26 @@ When you use Windows install python >= 3.7
 Command pip install -r requirements.txt
 
 In linux :
+
   pip3 install -r requirements.txt
 
 If you want to run in virtualenv
 venv activation :
   linux 
+  
     source vnv/bin/activate
+    
       python3 app.py
 
 
   windows
+  
     vnv\Scripts\activate
+    
       python app.py
 
   deactivation venv :
+  
     deactivate
 
 #UZB
@@ -36,11 +42,16 @@ Agar linux bo`lsa :
 Agar virtual muhitda ishlatmoqchi bo`lsangiz (virtualenv)
 
 virtual muhitni(virtualenv) aktivlashtirish va botni ishga tushirish :
+
   linux 
+  
     source vnv/bin/activate
+    
       python3 app.py
 
 
   windows
+  
     vnv\Scripts\activate
+    
       python app.py
