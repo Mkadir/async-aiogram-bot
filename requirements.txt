@@ -1,1 +1,12 @@
-aiogram==2.13 
+aiogram-2.13
+Babel>=2.8.0
+aiohttp<4.0.0,>=3.7.2
+certifi>=2020.6.20
+async-timeout<4.0,>=3.0
+multidict<7.0,>=4.5
+yarl<2.0,>=1.0
+typing-extensions>=3.6.5
+chardet<5.0,>=2.0
+attrs>=17.3.0
+pytz>=2015.7
+idna>=2.0
