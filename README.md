@@ -7,8 +7,8 @@ Command pip install -r requirements.txt
 
 In linux :
 
-  pip3 install -r requirements.txt
-
+    pip3 install -r requirements.txt
+ 
 If you want to run in virtualenv
 venv activation :
   linux 
@@ -36,9 +36,11 @@ Agar siz windows OSdan foydalansangiz python >= 3.7  bolishi kerak
 
 Quydagi buyur orqali kerakli kutunxonalarni o`rnatishingiz mumkin:
          pip install -r requirements.txt
+         
+         
+Agar linux bo'lsa :
 
-Agar linux bo`lsa :
-  pip3 install -r requirements.txt
+      pip3 install -r requirements.txt
 
 Agar virtual muhitda ishlatmoqchi bo`lsangiz (virtualenv)
 
